@@ -10,6 +10,9 @@
 # número par -> valor MOD 2 == 0 (valor % 2 == 0)
 # número impar -> valor nãoMOD 2 == 0 (valor % 2 != 0) ! -> negativa
 
+# numInicio = int(input("informe o valor inicial"))
+# numFim = int(input("informe o valor final"))
+
 numInicio = 100
 numFim = 200
 contaPar = 0
