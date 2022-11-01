@@ -1,3 +1,7 @@
+#
+# autor: michel
+# data: 01/11/2022
+
 # # 1 - Programa que imprime a quantidade de números 
 # pares de 100 até 200, incluindo-os, tb a soma dos impares.
 # com entrada de dados pelo usuário.
